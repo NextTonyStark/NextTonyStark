@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and programming.
 - 🌱 I’m currently learning Html and CSS
 - 💞️ I’m looking to collaborate on any Front-end Development to expand my knowledge.
-- 📫 How to reach me 
+- 📫 you can reach me to my email.
 
 <!---
 NextTonyStark/NextTonyStark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
