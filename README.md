@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NextTonyStark
 - 👀 I’m interested in Web Development and programming.
-- 🌱 I’m currently learning Html and CSS
+- 🌱 I’m currently learning Html, CSS and Python.
 - 💞️ I’m looking to collaborate on any Front-end Development to expand my knowledge.
 - 📫 you can reach me to my email.
 
